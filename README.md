@@ -53,22 +53,3 @@ Press CTRL + SHIFT + P and select *LEGO Hub: start program* from the dropdown me
 Select the slot of the program you want to start on the hub.
 Note: This step can be skipped if you have autostart activated.
 
-## How to enable precompiling:
-To precompile the main.py on the PC/laptop, go to the extension page and select the extension.
-Then click on the settings symbol and activate Lego Spike Prime Mindstorms: *Compile Before Upload*.
-This will allow the program to start faster.
-
-## Reporting Bugs:
-If you find a bug, kindly report it to go.robot@gmynasium-ottobrunn.de 
-We will try to fix it as soon as possible. If you have any questions regarding the code, please reach out to us using the same Email adress.
-
-## For further info on working with Spike Prime in VS Code see:
-https://github.com/PeterStaev/lego-spikeprime-mindstorms-vscode
-
-## Credits:
-Thanks to [Peter Staev](https://github.com/PeterStaev/lego-spikeprime-mindstorms-vscode) for making it possible for us to use access in depth features of Spike Prime and for enabling us to use VS Code to program.
-
-## Disclaimer:
-This program uses features of extensions that use unofficial and undocumented APIs. They can change without notice. Functions tested on Windows 10/11 connecting to a LEGO MINDSTORMS Spike Prime Hub.
-
-*LEGO* and *MINDSTORMS* are registered trademarks of the LEGO Group. *SPIKE* is a trademark of LEGO Group.
